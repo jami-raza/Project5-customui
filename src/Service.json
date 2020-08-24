@@ -1,0 +1,30 @@
+{
+
+    "Web designing":{
+        "name":"Web Designer",
+        "desc":"Nullam quis libero in lorem accumsan sodales. Nam vel nisi eget.",
+        "image":"../image/image.png"
+
+    },
+    "Web Development":{
+        "name":"Web Development",
+        "desc":"Nullam quis libero in lorem accumsan sodales. Nam vel nisi eget.",
+        "image":"../images/image.png"
+
+    },
+    "SEO":{
+        "name":"SEO",
+        "desc":"Nullam quis libero in lorem accumsan sodales. Nam vel nisi eget.",
+        "image":"../images/image.png"
+
+    },
+   
+    "Digital Marketing":{
+        "name":"Digital Marketing",
+        "desc":"Nullam quis libero in lorem accumsan sodales. Nam vel nisi eget.",
+        "image":"../images/image.png"
+
+    }
+    
+
+}
